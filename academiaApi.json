@@ -1,0 +1,53 @@
+{
+    "peito": [
+        {
+          "id": 1,
+          "title": "SUPINO RETO",
+          "descricao": "Enquanto está deitado em decúbito dorsal, de preferência sobre um 'banco' específico, o praticante abaixa uma barra com pesos até perto do peito [90º graus], e então a empurra para cima até que seus cotovelos estejam estendidos (ou próximos a isso).",
+          "imgDesc": "https://www.smartfit.com.br/news/wp-content/uploads/2016/06/supino-reto.jpg",
+          "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrIds4-8QergE_TjEIQhvYmNQahuc5hzrxRA&usqp=CAU",
+          "img3": "https://i.pinimg.com/originals/ae/33/67/ae33673b1e9c577ad97cf1ff6291861e.jpg",
+          "img4": "https://i.pinimg.com/originals/8c/4b/c0/8c4bc0d8b44dd487d1d52a1574b36320.jpg",
+          "img5": "https://www.musculacao.net/wp-content/uploads/2012/09/supino_barra.jpg",
+          "video": "https://www.youtube.com/watch?v=djSe9kMX0ao"
+        },
+        {
+          "id": 2,
+          "title": "SUPINO INCLINADO",
+          "descricao": "Cotovelos, ombros e peitoral devem estar alinhados. Controle o movimento dos ombros; uma vez que a escápula deve estar contraída, nada de soltar os ombros quando o peso estiver afastado do tronco.",
+          "imgDesc": "https://blog.gsuplementos.com.br/wp-content/uploads/2021/04/iStock-1246046696.jpg",
+          "img2": "https://blog.gsuplementos.com.br/wp-content/uploads/2021/04/iStock-1246046696.jpg",
+          "img3": "https://blog.gsuplementos.com.br/wp-content/uploads/2021/04/iStock-1246046696.jpg",
+          "img4": "https://blog.gsuplementos.com.br/wp-content/uploads/2021/04/iStock-1246046696.jpg",
+          "img5": "https://blog.gsuplementos.com.br/wp-content/uploads/2021/04/iStock-1246046696.jpg",
+          "video": "https://www.youtube.com/watch?v=djSe9kMX0ao"
+        }
+    ],
+    
+    "costas": [
+      {
+        "id": 3,
+        "title": "BARRA FIXA",
+        "descricao": "A barra fixa (pull up) é um movimento caracterizado pelo adução de ombros e flexão de cotovelo, sendo assim os músculos do latíssimo do dorso e bíceps braquial são os principais grupos musculares recrutados nestes movimentos.",
+        "imgDesc": "https://oestesom.vteximg.com.br/arquivos/ids/178208-425-425/barra-fixa-de-parede-crossfit-pull-up-treino-musculaco-D_NQ_NP_677572-MLB41374140786_042020-F.jpg?v=637273144409830000",
+        "img2": "https://oestesom.vteximg.com.br/arquivos/ids/178208-425-425/barra-fixa-de-parede-crossfit-pull-up-treino-musculaco-D_NQ_NP_677572-MLB41374140786_042020-F.jpg?v=637273144409830000",
+        "img3": "https://oestesom.vteximg.com.br/arquivos/ids/178208-425-425/barra-fixa-de-parede-crossfit-pull-up-treino-musculaco-D_NQ_NP_677572-MLB41374140786_042020-F.jpg?v=637273144409830000",
+        "img4": "https://oestesom.vteximg.com.br/arquivos/ids/178208-425-425/barra-fixa-de-parede-crossfit-pull-up-treino-musculaco-D_NQ_NP_677572-MLB41374140786_042020-F.jpg?v=637273144409830000",
+        "img5": "https://oestesom.vteximg.com.br/arquivos/ids/178208-425-425/barra-fixa-de-parede-crossfit-pull-up-treino-musculaco-D_NQ_NP_677572-MLB41374140786_042020-F.jpg?v=637273144409830000",
+        "video": "https://www.youtube.com/watch?v=djSe9kMX0ao"
+      },
+      {
+        "id": 4,
+        "title": "AGACHAMENTOS",
+        "descricao": "No agachamento, o quadril realiza uma flexão durante a fase excêntrica no movimento, isso é, na descida. O movimento aproxima a coxa do tronco durante a realização do exercício. No decorrer da fase concêntrica acontece também uma extensão de quadril, que leva o membro inferior para trás do plano sagital.",
+        "imgDesc": "https://treinomestre.com.br/wp-content/uploads/2015/11/agachamento-sumo-musculos.jpg",
+        "img2": "https://treinomestre.com.br/wp-content/uploads/2015/11/agachamento-sumo-musculos.jpg",
+        "img3": "https://treinomestre.com.br/wp-content/uploads/2015/11/agachamento-sumo-musculos.jpg",
+        "img4": "https://treinomestre.com.br/wp-content/uploads/2015/11/agachamento-sumo-musculos.jpg",
+        "img5": "https://treinomestre.com.br/wp-content/uploads/2015/11/agachamento-sumo-musculos.jpg",
+        "video": "https://www.youtube.com/watch?v=djSe9kMX0ao"
+      }
+  
+    ]
+  
+  }
