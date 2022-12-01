@@ -1,0 +1,23 @@
+{
+  "name": "restapiacademia",
+  "version": "1.0.0",
+  "description": "REST API para o Aplicativo Ionic + Angular de Academia/Treinos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathprestes/restApiAcademia.git"
+  },
+  "keywords": [],
+  "author": "Matheus Gouveia Prestes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathprestes/restApiAcademia/issues"
+  },
+  "homepage": "https://github.com/Mathprestes/restApiAcademia#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
